@@ -1,0 +1,10 @@
+﻿  CalcTests.cpp
+D:\My projects\VS repos\Calculator\ReversePolishNotation.h(30,21): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\My projects\VS repos\Calculator\ReversePolishNotation.h(31,21): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\My projects\VS repos\Calculator\ReversePolishNotation.h(32,21): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\My projects\VS repos\Calculator\ReversePolishNotation.h(33,21): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\My projects\VS repos\Calculator\ReversePolishNotation.h(34,22): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\My projects\VS repos\Calculator\ReversePolishNotation.h(361,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Calculator\ReversePolishNotation.h(36): warning C4715: calculate: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\My projects\VS repos\Calculator\Debug\CalcTests.lib и объект D:\My projects\VS repos\Calculator\Debug\CalcTests.exp
+  CalcTests.vcxproj -> D:\My projects\VS repos\Calculator\Debug\CalcTests.dll
